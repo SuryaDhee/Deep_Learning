@@ -1,3 +1,4 @@
 .DS_Store
 *.pdf
-Deep learning in Python/Numpy/*.csv
+ANN1/Numpy/*.csv
+ANN2/Data/*.csv
