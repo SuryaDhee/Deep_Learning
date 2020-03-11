@@ -2,3 +2,4 @@
 *.pdf
 ANN1/Numpy/*.csv
 ANN2/Data/*.csv
+*.pyc
