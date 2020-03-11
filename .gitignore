@@ -2,4 +2,5 @@
 *.pdf
 ANN1/Numpy/*.csv
 ANN2/Data/*.csv
+ANN2/theano_ann.py
 *.pyc
