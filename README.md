@@ -1,6 +1,6 @@
 # Deep learning code from Lazy programmer course (UDEMY)
 
-Check him out at [here](https://www.udemy.com/user/lazy-programmer/)
+Check him out [here](https://www.udemy.com/user/lazy-programmer/)
 
 Repo Structure : 
 
