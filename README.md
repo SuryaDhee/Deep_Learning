@@ -1,4 +1,4 @@
-#Deep learning code from Lazy programmer course (UDEMY)
+# Deep learning code from Lazy programmer course (UDEMY)
 
 Check him out at [here](https://www.udemy.com/user/lazy-programmer/)
 
